@@ -14,6 +14,13 @@ government "Indigenous Lifeform (Orange)"
 	swizzle 0
 	"display name" "Indigenous Lifeform"
 	"player reputation" 1
+	"attitude toward"
+		"Indigenous Lifeform (Pink)" 1
+		"Indigenous Lifeform (Cyan)" 1
+		"Indigenous Lifeform (Purple)" 1
+		"Indigenous Lifeform (Blue)" 1
+		"Indigenous Lifeform (Red)" 1
+		"Indigenous Lifeform (Green)" 1
 	"bribe" 0
 	"fine" 0
 	"penalty for"
@@ -30,6 +37,13 @@ government "Indigenous Lifeform (Pink)"
 	swizzle 1
 	"display name" "Indigenous Lifeform"
 	"player reputation" 1
+	"attitude toward"
+		"Indigenous Lifeform (Orange)" 1
+		"Indigenous Lifeform (Cyan)" 1
+		"Indigenous Lifeform (Purple)" 1
+		"Indigenous Lifeform (Blue)" 1
+		"Indigenous Lifeform (Red)" 1
+		"Indigenous Lifeform (Green)" 1
 	"bribe" 0
 	"fine" 0
 	"penalty for"
@@ -47,6 +61,12 @@ government "Indigenous Lifeform (Green)"
 	swizzle 2
 	"display name" "Indigenous Lifeform"
 	"player reputation" 1
+		"Indigenous Lifeform (Pink)" 1
+		"Indigenous Lifeform (Cyan)" 1
+		"Indigenous Lifeform (Purple)" 1
+		"Indigenous Lifeform (Blue)" 1
+		"Indigenous Lifeform (Red)" 1
+		"Indigenous Lifeform (Orange)" 1
 	"bribe" 0
 	"fine" 0
 	"penalty for"
@@ -63,6 +83,13 @@ government "Indigenous Lifeform (Cyan)"
 	swizzle 3
 	"display name" "Indigenous Lifeform"
 	"player reputation" 1
+	"attitude toward"
+		"Indigenous Lifeform (Pink)" 1
+		"Indigenous Lifeform (Green)" 1
+		"Indigenous Lifeform (Purple)" 1
+		"Indigenous Lifeform (Blue)" 1
+		"Indigenous Lifeform (Red)" 1
+		"Indigenous Lifeform (Orange)" 1
 	"bribe" 0
 	"fine" 0
 	"penalty for"
@@ -79,6 +106,13 @@ government "Indigenous Lifeform (Purple)"
 	swizzle 4
 	"display name" "Indigenous Lifeform"
 	"player reputation" 1
+	"attitude toward"
+		"Indigenous Lifeform (Pink)" 1
+		"Indigenous Lifeform (Cyan)" 1
+		"Indigenous Lifeform (Green)" 1
+		"Indigenous Lifeform (Blue)" 1
+		"Indigenous Lifeform (Red)" 1
+		"Indigenous Lifeform (Orange)" 1
 	"bribe" 0
 	"fine" 0
 	"penalty for"
@@ -96,6 +130,13 @@ government "Indigenous Lifeform (Blue)"
 	swizzle 5
 	"display name" "Indigenous Lifeform"
 	"player reputation" 1
+	"attitude toward"
+		"Indigenous Lifeform (Pink)" 1
+		"Indigenous Lifeform (Cyan)" 1
+		"Indigenous Lifeform (Green)" 1
+		"Indigenous Lifeform (Purple)" 1
+		"Indigenous Lifeform (Red)" 1
+		"Indigenous Lifeform (Orange)" 1
 	"bribe" 0
 	"fine" 0
 	"penalty for"
@@ -112,6 +153,13 @@ government "Indigenous Lifeform (Red)"
 	swizzle 6
 	"display name" "Indigenous Lifeform"
 	"player reputation" 1
+	"attitude toward"
+		"Indigenous Lifeform (Pink)" 1
+		"Indigenous Lifeform (Cyan)" 1
+		"Indigenous Lifeform (Green)" 1
+		"Indigenous Lifeform (Blue)" 1
+		"Indigenous Lifeform (Purple)" 1
+		"Indigenous Lifeform (Orange)" 1
 	"bribe" 0
 	"fine" 0
 	"penalty for"
